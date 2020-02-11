@@ -1,4 +1,4 @@
-package com.example.retrofitelevenfebruary;
+package com.example.retrofit;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;

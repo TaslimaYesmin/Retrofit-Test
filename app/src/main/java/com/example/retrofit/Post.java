@@ -1,4 +1,4 @@
-package com.example.retrofitelevenfebruary;
+package com.example.retrofit;
 
 class Post {
     private String userId;
